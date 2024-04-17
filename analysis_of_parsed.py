@@ -7,7 +7,7 @@ import numpy as np
 
 general_data = []
 
-folder_path = "C:/Users/Lenovo/PycharmProjects/rent_parser/data_JSON"
+folder_path = "data_JSON"
 
 for filename in os.listdir(folder_path):
     if filename.endswith(".json"):

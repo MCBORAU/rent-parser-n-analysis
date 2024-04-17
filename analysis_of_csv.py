@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 general_data = []
 
-file_path = "C:/Users/Lenovo/PycharmProjects/rent_parser/data_csv/ad_data_csv.json"
+file_path = "data_csv/ad_data_csv.json"
 
 with open(file_path, "r", encoding="utf-8") as file:
     try:
