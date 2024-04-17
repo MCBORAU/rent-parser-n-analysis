@@ -185,5 +185,5 @@ if __name__ == "__main__":
     for region in range(len(towns_list)):
         get_data(common_url_list[region], region)
     create_json_file()
-    repo_dir = "C:/Users/Lenovo/PycharmProjects/rent_parser"
+    repo_dir = "rent_parser"
     commit_and_push_changes(repo_dir, "Auto commit from script")
