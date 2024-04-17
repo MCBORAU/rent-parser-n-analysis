@@ -1,8 +1,9 @@
 name: Daily Parser
 
 on:
-  schedule:
-    - cron: '0 9 * * *'
+  push:
+#  schedule:
+#    - cron: '0 9 * * *'
 
 jobs:
   Daily-Run:

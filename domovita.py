@@ -158,7 +158,7 @@ def create_json_file():
             data.append(new_record)
 
     corrected_data = [record for record in data if record.get("Date") != "NULL"]
-
+    print(corrected_data)
     with open(file_name, "w", encoding="utf-8") as file:
         json.dump(corrected_data, file, indent=4, ensure_ascii=False)
 
