@@ -3,7 +3,7 @@ name: Daily Parser
 on:
   push:
 #  schedule:
-#    - cron: '0 9 * * *'
+#    - cron: '0 21 * * *'
 
 jobs:
   Daily-Run:
@@ -17,3 +17,11 @@ jobs:
         run: python gohome.py domovita.py flatbook.py hata.py neagent.py
       - name: Analyse Data
         run: python analysis_of_csv.py analysis_of_parsed.py
+      - name: Prepare updated files
+        run: |
+            git add .
+      - name: Create commit message
+        run: |
+            git commit -m "Autocommit"
+      - name: Push changes into remoted repo
+        run: git push origin main

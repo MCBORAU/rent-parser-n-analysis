@@ -38,8 +38,12 @@ def assign_colors_to_values(y_values):
 
 
 def assign_colors_to_unique_values(y_values):
+    my_palette = ['#bcebcb', '#e08b8b', '#9bdbe8', '#df90c4', '#aec8cf', '#abc4ff', '#c8bcd4', '#ffefd6', '#f1f4f9',
+                  '#fdffb6', '#f3d7f0', '#ece4d0', '#b7c7e1', '#d9c9d4', '#dfd49c', '#d1d1d1', '#cad3fa', '#f5ee98',
+                  '#ace5ee', '#f7e4f7']
+
     unique_values = sorted(set(y_values))
-    colors = sns.color_palette("pastel", len(unique_values))
+    colors = sns.color_palette(my_palette, len(unique_values))
     color_dict = dict(zip(unique_values, colors))
     return [color_dict[val] for val in y_values]
 
@@ -175,11 +179,13 @@ def one_address_ads_barplot(df):
 
     phone_counts = df.groupby("Address")["Phone"].nunique()
 
-    phone_counts_filtered = phone_counts[phone_counts > 2]
+    phone_counts_filtered = phone_counts[phone_counts > 2].sort_values(ascending=False)
+
+    colors = assign_colors_to_unique_values(phone_counts_filtered.values)
 
     plt.figure(figsize=(10, 6))
 
-    phone_counts_filtered.plot(kind='bar', color=palette[6])
+    plt.bar(phone_counts_filtered.index, phone_counts_filtered.values, color=colors)
 
     plt.xlabel("Адрес", fontsize=12)
     plt.ylabel("Количество номеров телефонов", fontsize=12)

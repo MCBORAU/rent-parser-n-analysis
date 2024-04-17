@@ -371,7 +371,7 @@ def ads_per_day(df):
     df = df.infer_objects()
 
     newest_dates = df['Date'].max()
-    start_date = newest_dates - pd.DateOffset(days=8)
+    start_date = newest_dates - pd.DateOffset(days=9)
     df_last_week = df[(df['Date'] >= start_date) & (df['Date'] <= newest_dates)]
 
     df_per_day = df_last_week.resample('D', on='Date').size()
@@ -381,7 +381,7 @@ def ads_per_day(df):
 
     plt.xlabel('Дата', fontsize=12)
     plt.ylabel('Количество объявлений', fontsize=12)
-    plt.title('Количество объявлений по датам за последнюю неделю', fontsize=14)
+    plt.title('Количество объявлений по датам за последние 10 дней', fontsize=14)
 
     plt.xlim(left=0)
 
@@ -394,7 +394,7 @@ def average_price_per_day(df):
     df['Date'] = pd.to_datetime(df['Date'], dayfirst=True)
 
     max_date = df['Date'].max()
-    start_date = max_date - pd.DateOffset(days=8)
+    start_date = max_date - pd.DateOffset(days=9)
 
     df_last_week = df[(df['Date'] >= start_date) & (df['Date'] <= max_date)]
 
@@ -407,7 +407,7 @@ def average_price_per_day(df):
 
     plt.xlabel('Дата', fontsize=12)
     plt.ylabel('Средняя цена', fontsize=12)
-    plt.title('Средняя цена по датам за последнюю неделю', fontsize=14)
+    plt.title('Средняя цена по датам за последние 10 дней', fontsize=14)
 
     plt.xlim(left=0)
 
@@ -416,15 +416,15 @@ def average_price_per_day(df):
 
 
 if __name__ == "__main__":
-    price_histogram()
-    week_price_boxplot(df)
-    week_ad_amount_barplot(df)
-    one_phone_authors(df)
-    one_phone_ads(df)
-    one_phone_many_authors_ads_pie(df)
-    one_address_ads_barplot(df)
-    one_phone_ads_pie(df)
-    cheap_ads_amount_barplot()
-    cheap_ads_percentage_barplot()
+    # price_histogram()
+    # week_price_boxplot(df)
+    # week_ad_amount_barplot(df)
+    # one_phone_authors(df)
+    # one_phone_ads(df)
+    # one_phone_many_authors_ads_pie(df)
+    # one_address_ads_barplot(df)
+    # one_phone_ads_pie(df)
+    # cheap_ads_amount_barplot()
+    # cheap_ads_percentage_barplot()
     ads_per_day(df)
     average_price_per_day(df)
