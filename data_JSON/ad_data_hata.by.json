@@ -1,0 +1,162 @@
+[
+    {
+        "Address": "Брест, ул. Ленинградская, д. 17",
+        "Price": 3960,
+        "Phone": "375336403682",
+        "Author": "+375 (33) 640-36-82",
+        "Parse date": "05.04.2024",
+        "Date": "09.10.2023",
+        "Floor": "4",
+        "Resource": "hata.by"
+    },
+    {
+        "Address": "Минск, пр. Независимости, д. 101",
+        "Price": 6600,
+        "Phone": "375296555582",
+        "Author": "kvminsk@mail.ru",
+        "Parse date": "05.04.2024",
+        "Date": "14.09.2023",
+        "Floor": -1,
+        "Resource": "hata.by"
+    },
+    {
+        "Address": "Минск, пр. Независимости, д. 101",
+        "Price": 6600,
+        "Phone": "375296555582",
+        "Author": "kvminsk@mail.ru",
+        "Parse date": "05.04.2024",
+        "Date": "14.09.2023",
+        "Floor": -1,
+        "Resource": "hata.by"
+    },
+    {
+        "Address": "Минск, ул. Уборевича, д. 102",
+        "Price": 11550,
+        "Phone": "375291288800",
+        "Author": "ipdaryamaslova@mail.ru",
+        "Parse date": "05.04.2024",
+        "Date": "07.09.2023",
+        "Floor": "3",
+        "Resource": "hata.by"
+    },
+    {
+        "Address": "Минск, ул. Голодеда, д. 11",
+        "Price": 7260,
+        "Phone": "375291288800",
+        "Author": "ipdaryamaslova@mail.ru",
+        "Parse date": "05.04.2024",
+        "Date": "07.09.2023",
+        "Floor": "3",
+        "Resource": "hata.by"
+    },
+    {
+        "Address": "Минск, ул. К. Туровского, д. 14",
+        "Price": 33330,
+        "Phone": "375445101049",
+        "Author": "minskbelarusrent@gmail.com",
+        "Parse date": "07.04.2024",
+        "Date": "25.03.2024",
+        "Floor": "13",
+        "Resource": "hata.by"
+    },
+    {
+        "Address": "Минск, ул. Мстиславца, д. 12",
+        "Price": 33330,
+        "Phone": "375445101049",
+        "Author": "minskbelarusrent@gmail.com",
+        "Parse date": "07.04.2024",
+        "Date": "25.03.2024",
+        "Floor": "7",
+        "Resource": "hata.by"
+    },
+    {
+        "Address": "Минск, ул. К. Туровского, д. 14",
+        "Price": 33000,
+        "Phone": "375445101049",
+        "Author": "minskbelarusrent@gmail.com",
+        "Parse date": "12.04.2024",
+        "Date": "25.03.2024",
+        "Floor": "13",
+        "Resource": "hata.by"
+    },
+    {
+        "Address": "Минск, ул. Мстиславца, д. 12",
+        "Price": 33000,
+        "Phone": "375445101049",
+        "Author": "minskbelarusrent@gmail.com",
+        "Parse date": "12.04.2024",
+        "Date": "25.03.2024",
+        "Floor": "7",
+        "Resource": "hata.by"
+    },
+    {
+        "Address": "Минск, ул. Мстиславца Петра, д. 8",
+        "Price": 9900,
+        "Phone": "375296022922",
+        "Author": "6022922@mail.ru",
+        "Parse date": "13.04.2024",
+        "Date": "12.04.2024",
+        "Floor": "2",
+        "Resource": "hata.by"
+    },
+    {
+        "Address": "Минск, ул. Бумажкова, д. 37",
+        "Price": 11550,
+        "Phone": "375296022922",
+        "Author": "6022922@mail.ru",
+        "Parse date": "13.04.2024",
+        "Date": "12.04.2024",
+        "Floor": "10",
+        "Resource": "hata.by"
+    },
+    {
+        "Address": "Минск, пр. Независимости, д. 72",
+        "Price": 8250,
+        "Phone": "375296022922",
+        "Author": "6022922@mail.ru",
+        "Parse date": "13.04.2024",
+        "Date": "12.04.2024",
+        "Floor": "4",
+        "Resource": "hata.by"
+    },
+    {
+        "Address": "Минск, ул., Городской Вал",
+        "Price": 8250,
+        "Phone": "375296022922",
+        "Author": "6022922@mail.ru",
+        "Parse date": "13.04.2024",
+        "Date": "12.04.2024",
+        "Floor": -1,
+        "Resource": "hata.by"
+    },
+    {
+        "Address": "Минск, ул. Петра Мстиславца, д. 8",
+        "Price": 9900,
+        "Phone": "375298232922",
+        "Author": "6022922@mail.ru",
+        "Parse date": "13.04.2024",
+        "Date": "12.04.2024",
+        "Floor": -1,
+        "Resource": "hata.by"
+    },
+    {
+        "Address": "Минск,, ул. Академическая",
+        "Price": 9900,
+        "Phone": "375255332242",
+        "Author": "6022922@mail.ru",
+        "Parse date": "13.04.2024",
+        "Date": "12.04.2024",
+        "Floor": "10",
+        "Resource": "hata.by"
+    },
+    {
+        "Address": "Минск, ул. Голодеда, д. 11",
+        "Price": 6930,
+        "Phone": "375291288800",
+        "Author": "ipdaryamaslova@mail.ru",
+        "Parse date": "13.04.2024",
+        "Date": "07.09.2023",
+        "Floor": "3",
+        "Resource": "hata.by"
+    }
+]

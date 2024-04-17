@@ -1,0 +1,242 @@
+[
+    {
+        "Address": "Брест, улица Дзержинского, 34",
+        "Price": 12000,
+        "Phone": "NULL",
+        "Author": "NULL",
+        "Parse date": "05.04.2024",
+        "Date": "08.03.2023",
+        "Floor": "2",
+        "Resource": "neagent.by"
+    },
+    {
+        "Address": "Брест, Воровского, 23",
+        "Price": 7000,
+        "Phone": "NULL",
+        "Author": "NULL",
+        "Parse date": "05.04.2024",
+        "Date": "30.12.2021",
+        "Floor": "8",
+        "Resource": "neagent.by"
+    },
+    {
+        "Address": "Брест, Партизанский проспект, 22",
+        "Price": 5000,
+        "Phone": "NULL",
+        "Author": "NULL",
+        "Parse date": "05.04.2024",
+        "Date": "09.03.2021",
+        "Floor": "4",
+        "Resource": "neagent.by"
+    },
+    {
+        "Address": "Брест, Молодогвардейская, 4",
+        "Price": 3500,
+        "Phone": "NULL",
+        "Author": "NULL",
+        "Parse date": "05.04.2024",
+        "Date": "09.03.2021",
+        "Floor": "2",
+        "Resource": "neagent.by"
+    },
+    {
+        "Address": "Брест, Бульвар Шевченко, 7",
+        "Price": 3500,
+        "Phone": "NULL",
+        "Author": "NULL",
+        "Parse date": "05.04.2024",
+        "Date": "02.03.2020",
+        "Floor": "2",
+        "Resource": "neagent.by"
+    },
+    {
+        "Address": "Брест, Советской Конституции, 19",
+        "Price": 3500,
+        "Phone": "NULL",
+        "Author": "NULL",
+        "Parse date": "05.04.2024",
+        "Date": "08.01.2019",
+        "Floor": "1",
+        "Resource": "neagent.by"
+    },
+    {
+        "Address": "Витебск, Черняховского просп., 1",
+        "Price": 7000,
+        "Phone": "NULL",
+        "Author": "NULL",
+        "Parse date": "05.04.2024",
+        "Date": "08.08.2023",
+        "Floor": "5",
+        "Resource": "neagent.by"
+    },
+    {
+        "Address": "Витебск, Правды, 66к",
+        "Price": 6000,
+        "Phone": "NULL",
+        "Author": "NULL",
+        "Parse date": "05.04.2024",
+        "Date": "29.05.2021",
+        "Floor": "21",
+        "Resource": "neagent.by"
+    },
+    {
+        "Address": "Витебск, ул. Черняховского, 6/5",
+        "Price": 4500,
+        "Phone": "NULL",
+        "Author": "NULL",
+        "Parse date": "05.04.2024",
+        "Date": "30.11.2020",
+        "Floor": "4",
+        "Resource": "neagent.by"
+    },
+    {
+        "Address": "Витебск, Московский проспект, 58",
+        "Price": 7500,
+        "Phone": "NULL",
+        "Author": "NULL",
+        "Parse date": "05.04.2024",
+        "Date": "29.11.2020",
+        "Floor": "2",
+        "Resource": "neagent.by"
+    },
+    {
+        "Address": "Гомель, ул. Госпитальная, 10",
+        "Price": 4500,
+        "Phone": "NULL",
+        "Author": "NULL",
+        "Parse date": "05.04.2024",
+        "Date": "17.12.2022",
+        "Floor": "0",
+        "Resource": "neagent.by"
+    },
+    {
+        "Address": "Гомель, ул. Госпитальная, 10",
+        "Price": 4500,
+        "Phone": "NULL",
+        "Author": "NULL",
+        "Parse date": "05.04.2024",
+        "Date": "17.12.2022",
+        "Floor": "0",
+        "Resource": "neagent.by"
+    },
+    {
+        "Address": "Гродно, Гоголя, 11",
+        "Price": 3500,
+        "Phone": "NULL",
+        "Author": "NULL",
+        "Parse date": "05.04.2024",
+        "Date": "24.11.2019",
+        "Floor": "2",
+        "Resource": "neagent.by"
+    },
+    {
+        "Address": "Гродно, Стефана Батория, 10",
+        "Price": 5000,
+        "Phone": "NULL",
+        "Author": "NULL",
+        "Parse date": "05.04.2024",
+        "Date": "16.01.2019",
+        "Floor": "4",
+        "Resource": "neagent.by"
+    },
+    {
+        "Address": "Минск, ул. Долгобродская, 38",
+        "Price": 8000,
+        "Phone": "375333140676",
+        "Author": "NULL",
+        "Parse date": "05.04.2024",
+        "Date": "01.04.2024",
+        "Floor": "1",
+        "Resource": "neagent.by"
+    },
+    {
+        "Address": "Минск, ул. Шишкина, 26",
+        "Price": 8000,
+        "Phone": "375296600328",
+        "Author": "NULL",
+        "Parse date": "05.04.2024",
+        "Date": "12.03.2024",
+        "Floor": "8",
+        "Resource": "neagent.by"
+    },
+    {
+        "Address": "Минск, ул. Скрипникова, 11",
+        "Price": 10000,
+        "Phone": "375447353136",
+        "Author": "NULL",
+        "Parse date": "05.04.2024",
+        "Date": "04.04.2024",
+        "Floor": "5",
+        "Resource": "neagent.by"
+    },
+    {
+        "Address": "Минск, Одоевского",
+        "Price": 15000,
+        "Phone": "375296872696",
+        "Author": "NULL",
+        "Parse date": "05.04.2024",
+        "Date": "19.03.2024",
+        "Floor": "0",
+        "Resource": "neagent.by"
+    },
+    {
+        "Address": "Минск, ул. Веры Хоружей, 19",
+        "Price": 6000,
+        "Phone": "375296676197",
+        "Author": "NULL",
+        "Parse date": "05.04.2024",
+        "Date": "04.03.2024",
+        "Floor": "2",
+        "Resource": "neagent.by"
+    },
+    {
+        "Address": "Минск, ул. Максима Танка, 16",
+        "Price": 6500,
+        "Phone": "375296676197",
+        "Author": "NULL",
+        "Parse date": "05.04.2024",
+        "Date": "14.02.2024",
+        "Floor": "3",
+        "Resource": "neagent.by"
+    },
+    {
+        "Address": "Могилев, Гришина, 71",
+        "Price": 6000,
+        "Phone": "NULL",
+        "Author": "NULL",
+        "Parse date": "05.04.2024",
+        "Date": "26.04.2020",
+        "Floor": "9",
+        "Resource": "neagent.by"
+    },
+    {
+        "Address": "Могилев, Габровская, 46",
+        "Price": 4000,
+        "Phone": "NULL",
+        "Author": "NULL",
+        "Parse date": "05.04.2024",
+        "Date": "24.01.2019",
+        "Floor": "4",
+        "Resource": "neagent.by"
+    },
+    {
+        "Address": "Минск, ул. Щорса, 5",
+        "Price": 9500,
+        "Phone": "375293521789",
+        "Author": "NULL",
+        "Parse date": "07.04.2024",
+        "Date": "07.04.2024",
+        "Floor": "0",
+        "Resource": "neagent.by"
+    },
+    {
+        "Address": "Минск, ул. Веры Хоружей, 19",
+        "Price": 6000,
+        "Phone": "375296676197",
+        "Author": "NULL",
+        "Parse date": "07.04.2024",
+        "Date": "05.04.2024",
+        "Floor": "2",
+        "Resource": "neagent.by"
+    }
+]
