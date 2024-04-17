@@ -17,6 +17,10 @@ jobs:
         run: python gohome.py domovita.py flatbook.py hata.py neagent.py
       - name: Analyse Data
         run: python analysis_of_csv.py analysis_of_parsed.py
+      - name: Set Git User (Global)
+        run: |
+            git config --global user.email "kupratsevchlyosha19@gmail.com"
+            git config --global user.name "MCBORAU"
       - name: Prepare updated files
         run: |
             git add .
