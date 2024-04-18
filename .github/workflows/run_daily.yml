@@ -1,9 +1,9 @@
 name: Daily Parser
 
 on:
-  push:
-#  schedule:
-#    - cron: '0 21 * * *'
+  schedule:
+    - cron: '0 21 * * *'
+
 env:
   ACTION_GITHUB_TOKEN: ${{ secrets.ACTION_GITHUB_TOKEN }}
 
