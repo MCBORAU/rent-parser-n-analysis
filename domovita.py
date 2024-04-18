@@ -5,7 +5,6 @@ import requests
 import random
 from bs4 import BeautifulSoup
 from datetime import datetime
-from git import Repo
 
 ad_data_list = []
 resource = "domovita.by"
@@ -164,26 +163,7 @@ def create_json_file():
         json.dump(corrected_data, file, indent=4, ensure_ascii=False)
 
 
-def commit_and_push_changes(repo_dir, commit_message="Auto commit"):
-    try:
-        repo = Repo(repo_dir)
-
-        repo.git.add("--all")
-
-        repo.index.commit(commit_message)
-
-        origin = repo.remote(name="origin")
-        origin.push()
-
-        print("Changes committed and pushed successfully.")
-
-    except Exception as e:
-        print(f"Failed to commit and push changes: {e}")
-
-
 if __name__ == "__main__":
     for region in range(len(towns_list)):
         get_data(common_url_list[region], region)
     create_json_file()
-    repo_dir = "rent_parser"
-    commit_and_push_changes(repo_dir, "Auto commit from script")
