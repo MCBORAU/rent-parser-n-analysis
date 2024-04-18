@@ -16,9 +16,17 @@ jobs:
       - name: Install Dependencies
         run: pip install -r requirements.txt
       - name: Run Parsers
-        run: python gohome.py domovita.py flatbook.py hata.py neagent.py
+        run: python gohome.py
+      - name: Run Parsers
+        run: python domovita.py
+      - name: Run Parsers
+        run: python flatbook.py
+      - name: Run Parsers
+        run: python hata.py
+      - name: Run Parsers
+        run: python neagent.py
       - name: Analyse Data
-        run: python analysis_of_csv.py analysis_of_parsed.py
+        run: python analysis_of_parsed.py
       - name: Set Git User (Global)
         run: |
             git config --global user.email "kupratsevchlyosha19@gmail.com"
