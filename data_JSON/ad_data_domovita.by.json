@@ -7398,5 +7398,415 @@
         "Date": "05.12.2023",
         "Floor": "7",
         "Resource": "domovita.by"
+    },
+    {
+        "Address": "Брест, ул. Интернациональная, д. 9",
+        "Price": 20000,
+        "Phone": "375296250116",
+        "Author": "Татьяна",
+        "Parse date": "18.04.2024",
+        "Date": "18.04.2024",
+        "Floor": "2",
+        "Resource": "domovita.by"
+    },
+    {
+        "Address": "Гродно, ул. Свердлова, д. 16",
+        "Price": 20000,
+        "Phone": "375296401760",
+        "Author": "ЕвроУЮТ",
+        "Parse date": "18.04.2024",
+        "Date": "15.02.2024",
+        "Floor": "2",
+        "Resource": "domovita.by"
+    },
+    {
+        "Address": "Гродно, ул. Пороховая, д. 9",
+        "Price": 19000,
+        "Phone": "375296401760",
+        "Author": "ЕвроУЮТ",
+        "Parse date": "18.04.2024",
+        "Date": "19.02.2024",
+        "Floor": "4",
+        "Resource": "domovita.by"
+    },
+    {
+        "Address": "Гродно, пр-т Янки Купалы, д. 88Б",
+        "Price": 14000,
+        "Phone": "375296401760",
+        "Author": "ЕвроУЮТ",
+        "Parse date": "18.04.2024",
+        "Date": "19.02.2024",
+        "Floor": "17",
+        "Resource": "domovita.by"
+    },
+    {
+        "Address": "Гродно, ул. Захарова, д. 24",
+        "Price": 16500,
+        "Phone": "375296401760",
+        "Author": "ЕвроУЮТ",
+        "Parse date": "18.04.2024",
+        "Date": "19.02.2024",
+        "Floor": "7",
+        "Resource": "domovita.by"
+    },
+    {
+        "Address": "Гродно, ул. Мостовая, д. 37",
+        "Price": 14000,
+        "Phone": "375296401760",
+        "Author": "ЕвроУЮТ",
+        "Parse date": "18.04.2024",
+        "Date": "15.02.2024",
+        "Floor": "2",
+        "Resource": "domovita.by"
+    },
+    {
+        "Address": "Гродно, ул. Курчатова, д. 29",
+        "Price": 16000,
+        "Phone": "375296401760",
+        "Author": "ЕвроУЮТ",
+        "Parse date": "18.04.2024",
+        "Date": "19.02.2024",
+        "Floor": "10",
+        "Resource": "domovita.by"
+    },
+    {
+        "Address": "Гродно, ул. Захарова, д. 24",
+        "Price": 13000,
+        "Phone": "375296401760",
+        "Author": "ЕвроУЮТ",
+        "Parse date": "18.04.2024",
+        "Date": "19.02.2024",
+        "Floor": "7",
+        "Resource": "domovita.by"
+    },
+    {
+        "Address": "Гродно, ул. Карла Маркса, д. 9",
+        "Price": 15500,
+        "Phone": "375296401760",
+        "Author": "ЕвроУЮТ",
+        "Parse date": "18.04.2024",
+        "Date": "19.02.2024",
+        "Floor": "2",
+        "Resource": "domovita.by"
+    },
+    {
+        "Address": "Гродно, ул. Дзержинского, д. 58",
+        "Price": 19000,
+        "Phone": "375296401760",
+        "Author": "ЕвроУЮТ",
+        "Parse date": "18.04.2024",
+        "Date": "19.02.2024",
+        "Floor": "5",
+        "Resource": "domovita.by"
+    },
+    {
+        "Address": "Гродно, ул. Давыда Городенского, д. 2/1",
+        "Price": 14000,
+        "Phone": "375296401760",
+        "Author": "ЕвроУЮТ",
+        "Parse date": "18.04.2024",
+        "Date": "19.02.2024",
+        "Floor": "1",
+        "Resource": "domovita.by"
+    },
+    {
+        "Address": "Гродно, ул. Городничанская, д. 38А",
+        "Price": 14000,
+        "Phone": "375296401760",
+        "Author": "ЕвроУЮТ",
+        "Parse date": "18.04.2024",
+        "Date": "19.02.2024",
+        "Floor": "2",
+        "Resource": "domovita.by"
+    },
+    {
+        "Address": "Гродно, ул. Ленина, д. 19",
+        "Price": 15000,
+        "Phone": "375296401760",
+        "Author": "ЕвроУЮТ",
+        "Parse date": "18.04.2024",
+        "Date": "19.02.2024",
+        "Floor": "2",
+        "Resource": "domovita.by"
+    },
+    {
+        "Address": "Гродно, ул. Буденного, д. 28",
+        "Price": 25000,
+        "Phone": "375296401760",
+        "Author": "ЕвроУЮТ",
+        "Parse date": "18.04.2024",
+        "Date": "15.02.2024",
+        "Floor": "4",
+        "Resource": "domovita.by"
+    },
+    {
+        "Address": "Гродно, ул. Свердлова, д. 16",
+        "Price": 20000,
+        "Phone": "375296401760",
+        "Author": "ЕвроУЮТ",
+        "Parse date": "18.04.2024",
+        "Date": "19.02.2024",
+        "Floor": "4",
+        "Resource": "domovita.by"
+    },
+    {
+        "Address": "Гродно, ул. Пороховая, д. 9",
+        "Price": 19000,
+        "Phone": "375296401760",
+        "Author": "ЕвроУЮТ",
+        "Parse date": "18.04.2024",
+        "Date": "19.02.2024",
+        "Floor": "7",
+        "Resource": "domovita.by"
+    },
+    {
+        "Address": "Гродно, ул. Ленина, д. 12",
+        "Price": 14000,
+        "Phone": "375296401760",
+        "Author": "ЕвроУЮТ",
+        "Parse date": "18.04.2024",
+        "Date": "19.02.2024",
+        "Floor": "1",
+        "Resource": "domovita.by"
+    },
+    {
+        "Address": "Гродно, ул. Курчатова, д. 27",
+        "Price": 16000,
+        "Phone": "375296401760",
+        "Author": "ЕвроУЮТ",
+        "Parse date": "18.04.2024",
+        "Date": "19.02.2024",
+        "Floor": "14",
+        "Resource": "domovita.by"
+    },
+    {
+        "Address": "Гродно, ул. Карла Маркса, д. 9",
+        "Price": 12500,
+        "Phone": "375296401760",
+        "Author": "ЕвроУЮТ",
+        "Parse date": "18.04.2024",
+        "Date": "19.02.2024",
+        "Floor": "2",
+        "Resource": "domovita.by"
+    },
+    {
+        "Address": "Гродно, ул. Буденного, д. 28",
+        "Price": 20000,
+        "Phone": "375296401760",
+        "Author": "ЕвроУЮТ",
+        "Parse date": "18.04.2024",
+        "Date": "15.02.2024",
+        "Floor": "1",
+        "Resource": "domovita.by"
+    },
+    {
+        "Address": "Гродно, ул. Захарова, д. 24",
+        "Price": 25000,
+        "Phone": "375296401760",
+        "Author": "ЕвроУЮТ",
+        "Parse date": "18.04.2024",
+        "Date": "15.02.2024",
+        "Floor": "10",
+        "Resource": "domovita.by"
+    },
+    {
+        "Address": "Минск, ул. Свердлова, д. 24",
+        "Price": 27900,
+        "Phone": "375291779903",
+        "Author": "Алекс",
+        "Parse date": "18.04.2024",
+        "Date": "24.06.2020",
+        "Floor": "2",
+        "Resource": "domovita.by"
+    },
+    {
+        "Address": "Минск, ул. Городской Вал, д. 9",
+        "Price": 27900,
+        "Phone": "375291152072",
+        "Author": "Татьяна",
+        "Parse date": "18.04.2024",
+        "Date": "27.09.2020",
+        "Floor": "5",
+        "Resource": "domovita.by"
+    },
+    {
+        "Address": "Минск, пр-т Независимости, д. 14",
+        "Price": 39400,
+        "Phone": "375291152072",
+        "Author": "Татьяна",
+        "Parse date": "18.04.2024",
+        "Date": "28.02.2024",
+        "Floor": "3",
+        "Resource": "domovita.by"
+    },
+    {
+        "Address": "Минск, ул. Карла Маркса, д. 39",
+        "Price": 23000,
+        "Phone": "375296119008",
+        "Author": "Тимур",
+        "Parse date": "18.04.2024",
+        "Date": "24.10.2023",
+        "Floor": "2",
+        "Resource": "domovita.by"
+    },
+    {
+        "Address": "Минск, ул. Свердлова, д. 24",
+        "Price": 23000,
+        "Phone": "375292440440",
+        "Author": "Татьяна",
+        "Parse date": "18.04.2024",
+        "Date": "10.11.2022",
+        "Floor": "2",
+        "Resource": "domovita.by"
+    },
+    {
+        "Address": "Минск, ул. Восточная, д. 52",
+        "Price": 16400,
+        "Phone": "375257915835",
+        "Author": "Николай",
+        "Parse date": "18.04.2024",
+        "Date": "19.04.2024",
+        "Floor": "3",
+        "Resource": "domovita.by"
+    },
+    {
+        "Address": "Минск, ул. Кирилла Туровского, д. 4",
+        "Price": 5000,
+        "Phone": "375255318903",
+        "Author": "Сергей",
+        "Parse date": "18.04.2024",
+        "Date": "18.04.2024",
+        "Floor": "5",
+        "Resource": "domovita.by"
+    },
+    {
+        "Address": "Минск, пр-т Мира, д. 18",
+        "Price": 14800,
+        "Phone": "375293422020",
+        "Author": "Кристина",
+        "Parse date": "18.04.2024",
+        "Date": "18.04.2024",
+        "Floor": "21",
+        "Resource": "domovita.by"
+    },
+    {
+        "Address": "Минск, ул. Петра Мстиславца, д. 12",
+        "Price": 17100,
+        "Phone": "375447745944",
+        "Author": "Лаура",
+        "Parse date": "18.04.2024",
+        "Date": "03.10.2021",
+        "Floor": "6",
+        "Resource": "domovita.by"
+    },
+    {
+        "Address": "Минск, ул. Петра Мстиславца, д. 18",
+        "Price": 12500,
+        "Phone": "375447745944",
+        "Author": "Лаура",
+        "Parse date": "18.04.2024",
+        "Date": "07.12.2021",
+        "Floor": "4",
+        "Resource": "domovita.by"
+    },
+    {
+        "Address": "Минск, ул. Ленина, д. 5",
+        "Price": 11200,
+        "Phone": "375296180111",
+        "Author": "Таня",
+        "Parse date": "18.04.2024",
+        "Date": "19.10.2022",
+        "Floor": "4",
+        "Resource": "domovita.by"
+    },
+    {
+        "Address": "Минск, ул. Петра Мстиславца, д. 5",
+        "Price": 23000,
+        "Phone": "375293422020",
+        "Author": "",
+        "Parse date": "18.04.2024",
+        "Date": "21.11.2023",
+        "Floor": "2",
+        "Resource": "domovita.by"
+    },
+    {
+        "Address": "Минск, ул. Скрыганова, д. 2Б",
+        "Price": 14800,
+        "Phone": "375293422020",
+        "Author": "",
+        "Parse date": "18.04.2024",
+        "Date": "07.12.2023",
+        "Floor": "15",
+        "Resource": "domovita.by"
+    },
+    {
+        "Address": "Минск, ул. Белградская, д. 4",
+        "Price": 12500,
+        "Phone": "375293422020",
+        "Author": "",
+        "Parse date": "18.04.2024",
+        "Date": "25.12.2023",
+        "Floor": "2",
+        "Resource": "domovita.by"
+    },
+    {
+        "Address": "Минск, ул. Аэродромная, д. 22",
+        "Price": 14800,
+        "Phone": "375293422020",
+        "Author": "Кристина",
+        "Parse date": "18.04.2024",
+        "Date": "26.02.2024",
+        "Floor": "15",
+        "Resource": "domovita.by"
+    },
+    {
+        "Address": "Минск, ул. Михаила Савицкого, д. 1",
+        "Price": 14800,
+        "Phone": "375293422020",
+        "Author": "Кристина",
+        "Parse date": "18.04.2024",
+        "Date": "16.03.2024",
+        "Floor": "6",
+        "Resource": "domovita.by"
+    },
+    {
+        "Address": "Минск, ул. Обойная, д. 4/2",
+        "Price": 12500,
+        "Phone": "375293422020",
+        "Author": "Дарья",
+        "Parse date": "18.04.2024",
+        "Date": "05.12.2023",
+        "Floor": "2",
+        "Resource": "domovita.by"
+    },
+    {
+        "Address": "Минск, ул. Немига, д. 8",
+        "Price": 14800,
+        "Phone": "375293422020",
+        "Author": "Дарья",
+        "Parse date": "18.04.2024",
+        "Date": "05.12.2023",
+        "Floor": "9",
+        "Resource": "domovita.by"
+    },
+    {
+        "Address": "Минск, ул. Максима Богдановича, д. 58Б",
+        "Price": 16100,
+        "Phone": "375293422020",
+        "Author": "",
+        "Parse date": "18.04.2024",
+        "Date": "05.12.2023",
+        "Floor": "1",
+        "Resource": "domovita.by"
+    },
+    {
+        "Address": "Минск, пр-т Независимости, д. 18",
+        "Price": 27900,
+        "Phone": "375291152072",
+        "Author": "Алена",
+        "Parse date": "18.04.2024",
+        "Date": "10.11.2022",
+        "Floor": "3",
+        "Resource": "domovita.by"
     }
 ]

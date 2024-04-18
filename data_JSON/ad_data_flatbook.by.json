@@ -12598,5 +12598,75 @@
         "Date": "NULL",
         "Floor": "4",
         "Resource": "flatbook.by"
+    },
+    {
+        "Address": "Минск, пр. Независимости, 23",
+        "Price": 14000,
+        "Phone": "375293588133",
+        "Author": "Иван",
+        "Parse date": "18.04.2024",
+        "Date": "NULL",
+        "Floor": "5",
+        "Resource": "flatbook.by"
+    },
+    {
+        "Address": "Минск, пр. Пушкина, 38",
+        "Price": 5000,
+        "Phone": "375291799548",
+        "Author": "Светлана",
+        "Parse date": "18.04.2024",
+        "Date": "NULL",
+        "Floor": "6",
+        "Resource": "flatbook.by"
+    },
+    {
+        "Address": "Минск, ул. Евфросиньи Полоцкой, 5",
+        "Price": 10000,
+        "Phone": "375291935048",
+        "Author": "Юлия",
+        "Parse date": "18.04.2024",
+        "Date": "NULL",
+        "Floor": "2",
+        "Resource": "flatbook.by"
+    },
+    {
+        "Address": "Минск, пр. Машерова, 43",
+        "Price": 10000,
+        "Phone": "375295065528",
+        "Author": "Вита",
+        "Parse date": "18.04.2024",
+        "Date": "NULL",
+        "Floor": "15",
+        "Resource": "flatbook.by"
+    },
+    {
+        "Address": "Минск, ул. Язепа Дроздовича, 6",
+        "Price": 9000,
+        "Phone": "375296805346",
+        "Author": "Татьяна",
+        "Parse date": "18.04.2024",
+        "Date": "NULL",
+        "Floor": "5",
+        "Resource": "flatbook.by"
+    },
+    {
+        "Address": "Минск, пр. Независимости, 18",
+        "Price": 25000,
+        "Phone": "375296133643",
+        "Author": "Виктория",
+        "Parse date": "18.04.2024",
+        "Date": "NULL",
+        "Floor": "2",
+        "Resource": "flatbook.by"
+    },
+    {
+        "Address": "Минск, ул. Леонида Левина, 11",
+        "Price": 9500,
+        "Phone": "375296270387",
+        "Author": "Кирилл",
+        "Parse date": "18.04.2024",
+        "Date": "NULL",
+        "Floor": "6",
+        "Resource": "flatbook.by"
     }
 ]
