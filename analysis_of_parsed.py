@@ -368,7 +368,6 @@ def cheap_ads_percentage_barplot():
 def ads_per_day(df):
     df = df[df["Date"] != "NULL"]
     df['Date'] = pd.to_datetime(df['Date'], dayfirst=True)
-    df = df.infer_objects()
 
     newest_dates = df['Date'].max()
     start_date = newest_dates - pd.DateOffset(days=9)
@@ -416,15 +415,15 @@ def average_price_per_day(df):
 
 
 if __name__ == "__main__":
-    # price_histogram()
-    # week_price_boxplot(df)
-    # week_ad_amount_barplot(df)
-    # one_phone_authors(df)
-    # one_phone_ads(df)
-    # one_phone_many_authors_ads_pie(df)
-    # one_address_ads_barplot(df)
-    # one_phone_ads_pie(df)
-    # cheap_ads_amount_barplot()
-    # cheap_ads_percentage_barplot()
+    price_histogram()
+    week_price_boxplot(df)
+    week_ad_amount_barplot(df)
+    one_phone_authors(df)
+    one_phone_ads(df)
+    one_phone_many_authors_ads_pie(df)
+    one_address_ads_barplot(df)
+    one_phone_ads_pie(df)
+    cheap_ads_amount_barplot()
+    cheap_ads_percentage_barplot()
     ads_per_day(df)
     average_price_per_day(df)
