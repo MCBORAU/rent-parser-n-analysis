@@ -12778,5 +12778,25 @@
         "Date": "NULL",
         "Floor": "6",
         "Resource": "flatbook.by"
+    },
+    {
+        "Address": "Брест, пр. Машерова, 76",
+        "Price": 6500,
+        "Phone": "375295226904",
+        "Author": "Екатерина",
+        "Parse date": "20.04.2024",
+        "Date": "NULL",
+        "Floor": "5",
+        "Resource": "flatbook.by"
+    },
+    {
+        "Address": "Минск, ул. Прилукская, 60",
+        "Price": 13000,
+        "Phone": "375333003092",
+        "Author": "Елена",
+        "Parse date": "20.04.2024",
+        "Date": "NULL",
+        "Floor": "3",
+        "Resource": "flatbook.by"
     }
 ]
