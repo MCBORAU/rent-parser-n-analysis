@@ -231,8 +231,6 @@ def one_phone_many_authors_ads_pie(df):
     plt.axis('equal')
 
     plt.tight_layout()
-    plt.legend(title="Номер телефона", loc="center left", bbox_to_anchor=(0.78, 0.5), labels=data_for_plot.index,
-               fontsize=11)
 
     plt.savefig('plots_parsed/one_phone_many_authors_ads_pie.png', dpi=300, bbox_inches='tight')
     plt.close()
@@ -300,8 +298,6 @@ def one_phone_ads_pie(df):
     plt.axis('equal')
 
     plt.tight_layout()
-    plt.legend(title="Номер телефона", loc="center left", bbox_to_anchor=(0.78, 0.5), labels=data_for_plot_new.index,
-               fontsize=11)
 
     plt.savefig('plots_parsed/one_phone_ads_pie.png', dpi=300, bbox_inches='tight')
     plt.close()
