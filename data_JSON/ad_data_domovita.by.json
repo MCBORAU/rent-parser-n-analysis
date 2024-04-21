@@ -7978,5 +7978,15 @@
         "Date": "20.04.2024",
         "Floor": "3",
         "Resource": "domovita.by"
+    },
+    {
+        "Address": "Минск, ул. Братская, д. 15",
+        "Price": 20000,
+        "Phone": "375447305309",
+        "Author": "Татьяна",
+        "Parse date": "21.04.2024",
+        "Date": "21.04.2024",
+        "Floor": "13",
+        "Resource": "domovita.by"
     }
 ]
