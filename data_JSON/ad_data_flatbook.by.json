@@ -12808,5 +12808,125 @@
         "Date": "NULL",
         "Floor": "2",
         "Resource": "flatbook.by"
+    },
+    {
+        "Address": "Гомель, ул. Советская, 2",
+        "Price": 6000,
+        "Phone": "375445550567",
+        "Author": "Станислав",
+        "Parse date": "22.04.2024",
+        "Date": "NULL",
+        "Floor": "4",
+        "Resource": "flatbook.by"
+    },
+    {
+        "Address": "Гомель, ул. Песина, 52",
+        "Price": 4000,
+        "Phone": "375291256740",
+        "Author": "Надежда",
+        "Parse date": "22.04.2024",
+        "Date": "NULL",
+        "Floor": "1",
+        "Resource": "flatbook.by"
+    },
+    {
+        "Address": "Гродно, ул. Советская, 7",
+        "Price": 9000,
+        "Phone": "375257978996",
+        "Author": "Ольга",
+        "Parse date": "22.04.2024",
+        "Date": "NULL",
+        "Floor": "2",
+        "Resource": "flatbook.by"
+    },
+    {
+        "Address": "Гродно, ул. Победы, 34",
+        "Price": 7000,
+        "Phone": "375298696245",
+        "Author": "Екатерина",
+        "Parse date": "22.04.2024",
+        "Date": "NULL",
+        "Floor": "5",
+        "Resource": "flatbook.by"
+    },
+    {
+        "Address": "Гродно, ул. Гая, 17А",
+        "Price": 6500,
+        "Phone": "375295332011",
+        "Author": "Наталья",
+        "Parse date": "22.04.2024",
+        "Date": "NULL",
+        "Floor": "5",
+        "Resource": "flatbook.by"
+    },
+    {
+        "Address": "Минск, пр. Независимости, 52",
+        "Price": 7000,
+        "Phone": "375293108777",
+        "Author": "Лидия",
+        "Parse date": "22.04.2024",
+        "Date": "NULL",
+        "Floor": "4",
+        "Resource": "flatbook.by"
+    },
+    {
+        "Address": "Минск, ул. Игоря Лученка, 11",
+        "Price": 12000,
+        "Phone": "375291254433",
+        "Author": "Екатерина",
+        "Parse date": "22.04.2024",
+        "Date": "NULL",
+        "Floor": "13",
+        "Resource": "flatbook.by"
+    },
+    {
+        "Address": "Минск, ул. Левкова, 30",
+        "Price": 10000,
+        "Phone": "375296300103",
+        "Author": "Алена",
+        "Parse date": "22.04.2024",
+        "Date": "NULL",
+        "Floor": "14",
+        "Resource": "flatbook.by"
+    },
+    {
+        "Address": "Минск, пр. Газеты Правда, 17",
+        "Price": 9000,
+        "Phone": "375445197776",
+        "Author": "Лариса",
+        "Parse date": "22.04.2024",
+        "Date": "NULL",
+        "Floor": "3",
+        "Resource": "flatbook.by"
+    },
+    {
+        "Address": "Минск, пр. Дзержинского, 82",
+        "Price": 9000,
+        "Phone": "375445197776",
+        "Author": "Лариса",
+        "Parse date": "22.04.2024",
+        "Date": "NULL",
+        "Floor": "24",
+        "Resource": "flatbook.by"
+    },
+    {
+        "Address": "Минск, ул. Московская, 13",
+        "Price": 8500,
+        "Phone": "375293103150",
+        "Author": "Виктория",
+        "Parse date": "22.04.2024",
+        "Date": "NULL",
+        "Floor": "8",
+        "Resource": "flatbook.by"
+    },
+    {
+        "Address": "Минск, ул. Макаёнка, 12А",
+        "Price": 10500,
+        "Phone": "375296952495",
+        "Author": "Наталья",
+        "Parse date": "22.04.2024",
+        "Date": "NULL",
+        "Floor": "17",
+        "Resource": "flatbook.by"
     }
 ]
