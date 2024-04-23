@@ -298,5 +298,15 @@
         "Date": "22.04.2024",
         "Floor": "0",
         "Resource": "neagent.by"
+    },
+    {
+        "Address": "Минск, ул. Одоевского, 56",
+        "Price": 15000,
+        "Phone": "375296872696",
+        "Author": "NULL",
+        "Parse date": "23.04.2024",
+        "Date": "23.04.2024",
+        "Floor": "0",
+        "Resource": "neagent.by"
     }
 ]

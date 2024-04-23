@@ -12928,5 +12928,55 @@
         "Date": "NULL",
         "Floor": "17",
         "Resource": "flatbook.by"
+    },
+    {
+        "Address": "Брест, ул. Папанина, 5",
+        "Price": 8000,
+        "Phone": "375297951588",
+        "Author": "Марина",
+        "Parse date": "23.04.2024",
+        "Date": "NULL",
+        "Floor": "8",
+        "Resource": "flatbook.by"
+    },
+    {
+        "Address": "Минск, ул. Немига, 6",
+        "Price": 9900,
+        "Phone": "375296177434",
+        "Author": "Татьяна",
+        "Parse date": "23.04.2024",
+        "Date": "NULL",
+        "Floor": "4",
+        "Resource": "flatbook.by"
+    },
+    {
+        "Address": "Минск, ул. Заславская, 19",
+        "Price": 7900,
+        "Phone": "375296177434",
+        "Author": "Татьяна",
+        "Parse date": "23.04.2024",
+        "Date": "NULL",
+        "Floor": "8",
+        "Resource": "flatbook.by"
+    },
+    {
+        "Address": "Минск, ул. Серафимовича, 6",
+        "Price": 9000,
+        "Phone": "375291143977",
+        "Author": "Алиса",
+        "Parse date": "23.04.2024",
+        "Date": "NULL",
+        "Floor": "2",
+        "Resource": "flatbook.by"
+    },
+    {
+        "Address": "Минск, ул. Максима Танка, 16",
+        "Price": 9900,
+        "Phone": "375296177434",
+        "Author": "Татьяна",
+        "Parse date": "23.04.2024",
+        "Date": "NULL",
+        "Floor": "5",
+        "Resource": "flatbook.by"
     }
 ]
