@@ -8208,5 +8208,25 @@
         "Date": "10.11.2022",
         "Floor": "3",
         "Resource": "domovita.by"
+    },
+    {
+        "Address": "Брест, ул. Вересковая 6-я, д. 18",
+        "Price": 2000,
+        "Phone": "375293577808",
+        "Author": "Пукита",
+        "Parse date": "24.04.2024",
+        "Date": "07.06.2021",
+        "Floor": "1",
+        "Resource": "domovita.by"
+    },
+    {
+        "Address": "Минск, ул. Белградская, д. 6",
+        "Price": 9500,
+        "Phone": "375445890080",
+        "Author": "",
+        "Parse date": "24.04.2024",
+        "Date": "27.02.2024",
+        "Floor": "22",
+        "Resource": "domovita.by"
     }
 ]

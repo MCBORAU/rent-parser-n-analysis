@@ -12978,5 +12978,115 @@
         "Date": "NULL",
         "Floor": "5",
         "Resource": "flatbook.by"
+    },
+    {
+        "Address": "Брест, ул. Советская, 41",
+        "Price": 8000,
+        "Phone": "375292000022",
+        "Author": "Татьяна",
+        "Parse date": "24.04.2024",
+        "Date": "NULL",
+        "Floor": "7",
+        "Resource": "flatbook.by"
+    },
+    {
+        "Address": "Брест, ул. Советская, 56",
+        "Price": 15000,
+        "Phone": "375336100007",
+        "Author": "Валентина",
+        "Parse date": "24.04.2024",
+        "Date": "NULL",
+        "Floor": "2",
+        "Resource": "flatbook.by"
+    },
+    {
+        "Address": "Брест, Бульвар Космонавтов, 90",
+        "Price": 5000,
+        "Phone": "375297289423",
+        "Author": "Дмитрий и Милана",
+        "Parse date": "24.04.2024",
+        "Date": "NULL",
+        "Floor": "3",
+        "Resource": "flatbook.by"
+    },
+    {
+        "Address": "Брест, ул. 2-я Вересковая, 22",
+        "Price": 6000,
+        "Phone": "375297224811",
+        "Author": "Геннадий",
+        "Parse date": "24.04.2024",
+        "Date": "NULL",
+        "Floor": "1",
+        "Resource": "flatbook.by"
+    },
+    {
+        "Address": "Брест, бульвар Космонавтов, 97",
+        "Price": 8000,
+        "Phone": "375292000022",
+        "Author": "Татьяна",
+        "Parse date": "24.04.2024",
+        "Date": "NULL",
+        "Floor": "8",
+        "Resource": "flatbook.by"
+    },
+    {
+        "Address": "Гомель, площадь Победы, 1",
+        "Price": 4500,
+        "Phone": "375293595691",
+        "Author": "Евгений",
+        "Parse date": "24.04.2024",
+        "Date": "NULL",
+        "Floor": "4",
+        "Resource": "flatbook.by"
+    },
+    {
+        "Address": "Гомель, пр. Победы, 1",
+        "Price": 3500,
+        "Phone": "375447145557",
+        "Author": "Татьяна",
+        "Parse date": "24.04.2024",
+        "Date": "NULL",
+        "Floor": "2",
+        "Resource": "flatbook.by"
+    },
+    {
+        "Address": "Минск, ул. Петра Глебки, 80",
+        "Price": 5000,
+        "Phone": "375297755231",
+        "Author": "Григорий",
+        "Parse date": "24.04.2024",
+        "Date": "NULL",
+        "Floor": "8",
+        "Resource": "flatbook.by"
+    },
+    {
+        "Address": "Минск, пр. Независимости, 23",
+        "Price": 20000,
+        "Phone": "375445967712",
+        "Author": "Полина",
+        "Parse date": "24.04.2024",
+        "Date": "NULL",
+        "Floor": "3",
+        "Resource": "flatbook.by"
+    },
+    {
+        "Address": "Минск, пр. Независимости, 23",
+        "Price": 20000,
+        "Phone": "375445967712",
+        "Author": "Полина",
+        "Parse date": "24.04.2024",
+        "Date": "NULL",
+        "Floor": "4",
+        "Resource": "flatbook.by"
+    },
+    {
+        "Address": "Минск, ул. Максима Богдановича, 53",
+        "Price": 8000,
+        "Phone": "375293868443",
+        "Author": "Елена",
+        "Parse date": "24.04.2024",
+        "Date": "NULL",
+        "Floor": "3",
+        "Resource": "flatbook.by"
     }
 ]
